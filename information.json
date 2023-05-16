@@ -1,20 +1,22 @@
 {
-    "scp-600v": {
-        "Description": "a new object scp-600 which at the beginning of the game with some chance will spawn among class d, its task is absolutely the same as that of any SCP, when a person is killed, it changes its role to the killed one (only the role), when there is no one left but him and other SCP round ends",
-        "Version": "1.7.4.0",
-        "DownloadLink": "https://github.com/NOTIF-API/scp-600v/releases/download/version-1.7.4/SCP-600V.dll",
-        "LinkToDeps": {}
-    },
-    "CedMod": {
-        "Description": "Not found in git",
-        "Version": "3.4.7.0",
-        "DownloadLink": "https://github.com/CedModV2/CedMod/releases/download/3.4.7-638196954384278903/CedModV3.dll",
-        "LinkToDeps": {}
-    },
-    "RespawnTimer": {
-        "Description": "A SCP: Secret Laboratory plugin that shows when the next respawn wave will happen.",
-        "Version": "4.0.1.0",
-        "DownloadLink": "https://github.com/Michal78900/RespawnTimer/releases/download/v4.0.1/RespawnTimer.dll",
-        "LinkToDeps": {}
+    "Plugins": {
+        "scp-600v": {
+            "Description": "a new object scp-600 which at the beginning of the game with some chance will spawn among class d, its task is absolutely the same as that of any SCP, when a person is killed, it changes its role to the killed one (only the role), when there is no one left but him and other SCP round ends",
+            "Version": "1.7.4.0",
+            "DownloadLink": "https://github.com/NOTIF-API/scp-600v/releases/download/version-1.7.4/SCP-600V.dll",
+            "LinkToDeps": []
+        },
+        "CedMod": {
+            "Description": "Not found in git",
+            "Version": "3.4.7.0",
+            "DownloadLink": "https://github.com/CedModV2/CedMod/releases/download/3.4.7-638196954384278903/CedModV3.dll",
+            "LinkToDeps": []
+        },
+        "RespawnTimer": {
+            "Description": "A SCP: Secret Laboratory plugin that shows when the next respawn wave will happen.",
+            "Version": "4.0.1.0",
+            "DownloadLink": "https://github.com/Michal78900/RespawnTimer/releases/download/v4.0.1/RespawnTimer.dll",
+            "LinkToDeps": []
+        }
     }
 }
