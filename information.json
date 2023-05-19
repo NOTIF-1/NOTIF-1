@@ -17,6 +17,18 @@
             "Version": "4.0.1.0",
             "DownloadLink": "https://github.com/Michal78900/RespawnTimer/releases/download/v4.0.1/RespawnTimer.dll",
             "LinkToDeps": []
+        },
+        "ScpStat": {
+            "Description": "SCPStats is a stat tracking plugin for SCP: Secret Laboratory that allows players to track their stats across multiple servers and also includes some additional internet-connected features like rolesync and bansync. See below for a full list of features that SCPStats has to offer!",
+            "Version": "1.6.1.0",
+            "DownloadLink": "https://github.com/SCPStats/Plugin/releases/download/1.6.1/SCPStats.dll",
+            "LinkToDeps": []
+        },
+        "XPSystem": {
+            "Description": "Adds xp and many featres and uhh stuff you can config (so shiny!!) both exiled and nwapi versions (exiled ver more features) and uhh might have been submitted before but I can find it, so if you do tell me so I dont have to wait for some french femboy to accept it ty!! FORK OF BruteForceMaestro/XPSystem fyi tested last time with exiled 5, people have been using exiled 6 but might not have report all errors so if you see any, tell (-🤓). Thats all thanks for coming to my Ted talk",
+            "Version": "1.8.3.0",
+            "DownloadLink": "https://github.com/RowpannSCP/XP/releases/download/v1.8.3/XPSystem-EXILED.dll",
+            "LinkToDeps": ["https://github.com/RowpannSCP/XP/releases/download/v1.8.1/AdvancedHints-EXILED-Plugin.dll", "https://github.com/RowpannSCP/XP/releases/download/v1.8.1/LiteDB.dll"]
         }
     }
 }
