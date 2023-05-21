@@ -25,10 +25,17 @@
             "LinkToDeps": []
         },
         "XPSystem": {
-            "Description": "Adds xp and many featres and uhh stuff you can config (so shiny!!) both exiled and nwapi versions (exiled ver more features) and uhh might have been submitted before but I can find it, so if you do tell me so I dont have to wait for some french femboy to accept it ty!! FORK OF BruteForceMaestro/XPSystem fyi tested last time with exiled 5, people have been using exiled 6 but might not have report all errors so if you see any, tell (-🤓). Thats all thanks for coming to my Ted talk",
+            "Description": "Adds experience to the player in the form of a level system based on Json or LiteDB",
             "Version": "1.8.3.0",
             "DownloadLink": "https://github.com/RowpannSCP/XP/releases/download/v1.8.3/XPSystem-EXILED.dll",
             "LinkToDeps": ["https://github.com/RowpannSCP/XP/releases/download/v1.8.1/AdvancedHints-EXILED-Plugin.dll", "https://github.com/RowpannSCP/XP/releases/download/v1.8.1/LiteDB.dll"]
+        },
+        "ScpUtils": {
+            "Description": "Not found in git",
+            "Version": "6.0.5.0",
+            "DownloadLink": "https://github.com/terminator-97/SCPUtils/releases/download/6.0.5/ScpUtils.dll",
+            "LinkToDeps": []
         }
+        
     }
 }
